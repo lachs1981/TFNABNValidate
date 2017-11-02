@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFNABNChecker", "TFNABNChecker\TFNABNChecker.csproj", "{EEE4EE39-E636-45D1-B2C0-9239604E6453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{C9CDBBD3-850E-4617-B67E-8D39A27AEE91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE4EE39-E636-45D1-B2C0-9239604E6453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE4EE39-E636-45D1-B2C0-9239604E6453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE4EE39-E636-45D1-B2C0-9239604E6453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE4EE39-E636-45D1-B2C0-9239604E6453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CDBBD3-850E-4617-B67E-8D39A27AEE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CDBBD3-850E-4617-B67E-8D39A27AEE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CDBBD3-850E-4617-B67E-8D39A27AEE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CDBBD3-850E-4617-B67E-8D39A27AEE91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
