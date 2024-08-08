@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFNABNValidate", "..\TFNABNValidate\TFNABNValidate\TFNABNValidate.csproj", "{88BC1462-0534-4358-970F-91F5B211F4E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFNABNValidateConsole", "TFNABNValidateConsole\TFNABNValidateConsole.csproj", "{DA9A089B-2976-466F-B02B-86CED67B2955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFNABNValidateConsole", "TFNABNValidateConsole\TFNABNValidateConsole.csproj", "{DA9A089B-2976-466F-B02B-86CED67B2955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFNABNValidateTests", "TFNABNValidateTests\TFNABNValidateTests.csproj", "{9B23DC3F-4581-459A-A6B9-00A4FDB3C012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFNABNValidateTests", "TFNABNValidateTests\TFNABNValidateTests.csproj", "{9B23DC3F-4581-459A-A6B9-00A4FDB3C012}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFNABNValidate", "TFNABNValidate\TFNABNValidate.csproj", "{A9D8149B-EBCD-46FE-9AC9-74895E9F88FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{88BC1462-0534-4358-970F-91F5B211F4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88BC1462-0534-4358-970F-91F5B211F4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88BC1462-0534-4358-970F-91F5B211F4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88BC1462-0534-4358-970F-91F5B211F4E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DA9A089B-2976-466F-B02B-86CED67B2955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DA9A089B-2976-466F-B02B-86CED67B2955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA9A089B-2976-466F-B02B-86CED67B2955}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{9B23DC3F-4581-459A-A6B9-00A4FDB3C012}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B23DC3F-4581-459A-A6B9-00A4FDB3C012}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B23DC3F-4581-459A-A6B9-00A4FDB3C012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D8149B-EBCD-46FE-9AC9-74895E9F88FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D8149B-EBCD-46FE-9AC9-74895E9F88FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D8149B-EBCD-46FE-9AC9-74895E9F88FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D8149B-EBCD-46FE-9AC9-74895E9F88FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
